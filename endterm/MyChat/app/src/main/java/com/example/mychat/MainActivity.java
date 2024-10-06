@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        webView.loadUrl("https://leeyi-user.tk");
+        webView.loadUrl("https://leeyi-user.deno.dev");
     }
 
     @Override
