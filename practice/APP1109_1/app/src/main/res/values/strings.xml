@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APP1109</string>
+
+    <string-array name="dessert">
+        <item>蘋果派</item>
+        <item>可樂餅</item>
+        <item>奶酪</item>
+        <item>現烤鬆餅</item>
+        <item>冰淇淋</item>
+    </string-array>
+</resources>

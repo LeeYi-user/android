@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ch11_1</string>
+    <string-array name="imgfiles">
+        <item>image01.png</item>
+        <item>image02.png</item>
+        <item>image03.png</item>
+        <item>image04.png</item>
+        <item>image05.png</item>
+        <item>image06.png</item>
+        <item>image07.png</item>
+    </string-array>
+</resources>
